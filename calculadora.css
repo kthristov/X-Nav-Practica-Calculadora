@@ -1,0 +1,28 @@
+body {
+	margin-top: 70px ;
+}
+
+#main {
+	margin: auto ;
+	width : 294px ;
+	background-color: #ddd ;
+	box-shadow: 0 0 30px black;
+}
+
+.btn {
+	margin-top: 5px ;
+	font-weight: bold ;
+	width: 70px ;
+}
+
+#screen {
+	height: 45px ;
+	margin-bottom: 5px ;
+	font-size: 30px ;
+	font-weight: bold ;
+	text-align: right; 
+}
+
+#Reset {
+	margin-left: 148px ;
+}
